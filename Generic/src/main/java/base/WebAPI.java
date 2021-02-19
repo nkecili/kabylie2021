@@ -64,8 +64,7 @@ public class WebAPI {
 
         if (browserName.equalsIgnoreCase("Chrome")) {
             WebDriverManager.chromedriver().setup();
-           System.setProperty("webdriver.chrome.driver","/Users/nourdinekecili/IdeaProjects" +
-                   "/KingdomOfKabylia/org.Module0/Drivers/Mac/chromedriver");
+           System.setProperty("webdriver.chrome.driver","/Users/amardjebra/IdeaProjects/kabylie2021/org.Module0/Drivers/chromedriver");
            WebDriver driver1 = new ChromeDriver();
             driver = new ChromeDriver();
 
@@ -132,27 +131,6 @@ public class WebAPI {
 
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     // Helper methods
     public void clickOnElement(String locator) {
         try {
