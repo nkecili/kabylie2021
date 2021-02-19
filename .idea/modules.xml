@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/KingdomOfKabylia.iml" filepath="$PROJECT_DIR$/.idea/KingdomOfKabylia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.Module0/org.Module0.iml" filepath="$PROJECT_DIR$/org.Module0/org.Module0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.Module2/org.Module2.iml" filepath="$PROJECT_DIR$/org.Module2/org.Module2.iml" />
+    </modules>
+  </component>
+</project>
